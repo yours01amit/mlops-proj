@@ -1,10 +1,13 @@
 mlops-ven
+artifact
 notebook\data\data.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+logs
+src.egg-info
 # C extensions
 *.so
 
