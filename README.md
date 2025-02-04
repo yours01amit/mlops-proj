@@ -132,8 +132,8 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 3. Connect EC2 as a self-hosted runner on GitHub.
 
 ### Step 18: Final Steps
-1. Open the 5080 port on the EC2 instance.
-2. Access the deployed app by visiting `http://<public_ip>:5080`.
+1. Open the 5000 port on the EC2 instance.
+2. Access the deployed app by visiting `http://<public_ip>:5000`.
 
 ---
 
